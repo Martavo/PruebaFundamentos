@@ -1,0 +1,22 @@
+Respon les següents preguntes:
+
+a) Quina és la diferència entre una classe i un objecte?
+Una clase és l'"espai" on a partir d'ell s'istancien els objectes i funcions que desenvoluparan el nostre programa. 
+
+L'objecte és un element instanciat de la classe de la qual pertany i que representa un element concret.
+
+b) Què són els atributs d’una classe? I els mètodes?
+
+Els atributs son les "característiques" dels objectes, com pot ser sobre l'objecte persona el seu nom o edat.
+
+Els mètodes són les "accions" que aquests objectes poden realizar i que es relacionen amb els atributs d'aquest.
+
+c) Quins modificadors d’accés podem posar als atributs/mètodes d’una classe? Podries explicarlos?
+
+Podem crear els mètodes com a publics o privats, el public serà accesible desde qualsevol objecte i el privat només dins de la clase a la que pertany
+
+d) De quin tipus poden ser els atributs d’una classe?
+Els atributs poden ser: inter, double, String, arrays y booleanos
+
+e) Perquè serveix l’herència de classes?
+L'herència és el procés a partir del qual la classe "filla" rep tots els atributs i mètodes de la classe "pare" a la qual pertany. 
