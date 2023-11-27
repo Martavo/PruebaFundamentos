@@ -3,13 +3,13 @@ Respon les següents preguntes:
 a) Quina és la diferència entre una classe i un objecte?
 Una clase és l'"espai" on a partir d'ell s'istancien els objectes i funcions que desenvoluparan el nostre programa. 
 
-L'objecte és un element instanciat de la classe de la qual pertany i que representa un element concret.
+L'objecte és un element instanciat de la classe de la qual pertany i que representa un element concret amb els seus atributs i mètodes.
 
 b) Què són els atributs d’una classe? I els mètodes?
 
 Els atributs son les "característiques" dels objectes, com pot ser sobre l'objecte persona el seu nom o edat.
 
-Els mètodes són les "accions" que aquests objectes poden realizar i que es relacionen amb els atributs d'aquest.
+Els mètodes són les "accions" que aquests objectes poden realizar i que es relacionen amb els atributs d'aquest, en un objecte persona seria un mètode per menjar, o dormir.
 
 c) Quins modificadors d’accés podem posar als atributs/mètodes d’una classe? Podries explicarlos?
 
